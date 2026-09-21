@@ -48,6 +48,7 @@ else:
 print("你好，" + name)
 print("你的成績是：", score)
 print("結果：", result)
+```
 
 ## 多行引言區塊
 
